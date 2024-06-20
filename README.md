@@ -1,7 +1,7 @@
-Applicant:
+### Applicant:
+  Naomi Liu naomiliu@berkeley.edu
 
-Naomi Liu
-naomiliu@berkeley.edu
+### Code solution can be found in the server.js and calculatePoints.js files.
 
 # My Node.js Application
 
