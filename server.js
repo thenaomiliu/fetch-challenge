@@ -9,11 +9,6 @@ app.use(bodyParser.json());
 // In memory storage for receipts
 const receipts = {};
 
-// Basic GET, ensure server is working
-app.get('/', (req, res) => {
-    res.send('Hello, World!');
-});
-
 // POST route to process receipts
 app.post('/receipts/process', (req, res) => {
     const receipt = req.body; // Access the parsed JSON data from the request body
