@@ -45,7 +45,7 @@ function calculatePoints(receipt) {
         }
     })
 
-    // Convert purchaseDate to Date Class to use get methods
+    // Convert purchaseDate to Date Object to use get methods
     const purchaseDateTime = new Date(`${receipt.purchaseDate}T${receipt.purchaseTime}`);
     
     // 6 points if the day in the purchase date is odd.
