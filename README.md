@@ -41,8 +41,7 @@ Ensuring you're in the project repository enter this line in your terminal:
 
 Open a web browser and go to `http://localhost:3000` to interact with the Node.js application.
 
-RECEIPT PROCESSOR API BELOW
-VVV
+Thank you for this opportunity!
 
 ---
 
